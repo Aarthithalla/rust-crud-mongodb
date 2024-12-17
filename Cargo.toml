@@ -1,0 +1,12 @@
+[package]
+name = "ownproject"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.7.9"
+futures = "0.3.31"
+mongodb = "3.1.1"
+serde = "1.0.216"
+tokio = "1.42.0"
+tokio-stream = "0.1.17"
